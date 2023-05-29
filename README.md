@@ -56,4 +56,4 @@
                                                     PAYMENT DETAILS
                                                     
 ![payment page](https://github.com/ssneelu13/Online_Cab_Booking/assets/97376269/36b4aa4e-4041-4715-aaa7-a3499aa9b481)
-                                                    PAYEMENT PAGE
+                                                    PAYMENT PAGE
